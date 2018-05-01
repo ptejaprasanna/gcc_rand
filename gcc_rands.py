@@ -66,6 +66,7 @@ def code(theinput):
     for i in range(58,93):
         if r[i] == -1:
             unknowns.append(i)
+            
 
     for i in lst:
         u1 = 0
